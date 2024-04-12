@@ -1,1 +1,1 @@
-# efecto-de-escritura
+# typing-effect
